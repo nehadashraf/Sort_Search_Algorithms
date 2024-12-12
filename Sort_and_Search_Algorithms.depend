@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733145995 source:d:\work_space\iti scholarship\oppc++\labs\day3\sort_and_search_algorithms\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+
